@@ -1,0 +1,59 @@
+/*FONTS*/
+
+@font-face {
+	font-family: BebasNeue;
+	src: url('BebasNeue.otf');
+}
+
+
+#nav-back{
+	background-color: #343332;
+	height: 40px;
+	margin-bottom: 0;
+}
+
+#nav ul{
+	float: right;
+	margin-top:8px;
+}
+ 
+#nav ul li {
+
+    display: inline;
+    margin: 0 20px 0 0;
+}
+ 
+#nav a {
+	font-family: BebasNeue, sans-serif;
+	font-style: uppercase;
+	color: #FFFFFF;
+    text-decoration: none;
+}
+ 
+#nav a:hover {
+    text-decoration: underline;
+}
+
+#hero-back{
+	background-color:#658fdc;
+	height: 345px;
+}
+
+#hero-back .container{
+	margin-top: 20px;
+}
+
+#hero h1,h2{
+	color: #FFFFFF;
+}
+
+#hero p{
+	font-family: 'Open Sans', sans-serif;
+	color: #FFFFFF;
+	font-size: 18px;
+	line-height: 16px;
+}
+
+#hero-about{
+	margin-top: 25px;
+}
