@@ -1,8 +1,15 @@
 /*FONTS*/
 
 @font-face {
-	font-family: BebasNeue;
-	src: url('BebasNeue.otf');
+    font-family: 'bebas_neueregular';
+    src: url('BebasNeue-webfont.eot');
+    src: url('BebasNeue-webfont.eot?#iefix') format('embedded-opentype'),
+         url('BebasNeue-webfont.woff') format('woff'),
+         url('BebasNeue-webfont.ttf') format('truetype'),
+         url('BebasNeue-webfont.svg#bebas_neueregular') format('svg');
+    font-weight: normal;
+    font-style: normal;
+
 }
 
 
@@ -14,24 +21,25 @@
 
 #nav ul{
 	float: right;
-	margin-top:8px;
+	margin-top:11px;
 }
  
 #nav ul li {
 
     display: inline;
-    margin: 0 20px 0 0;
+    margin: 0 0px 0 10px;
 }
  
 #nav a {
-	font-family: BebasNeue, sans-serif;
+	font-family: 'bebas_neueregular';
 	font-style: uppercase;
 	color: #FFFFFF;
     text-decoration: none;
+    font-size: 20px;
 }
  
 #nav a:hover {
-    text-decoration: underline;
+    text-decoration: none;
 }
 
 #hero-back{
@@ -40,20 +48,35 @@
 }
 
 #hero-back .container{
+	padding-top: 20px;
+}
+
+#hero{
 	margin-top: 20px;
+	margin-left: 0px;
 }
 
 #hero h1,h2{
+	font-family: 'bebas_neueregular';
 	color: #FFFFFF;
+	margin-bottom: 10px;
 }
 
 #hero p{
 	font-family: 'Open Sans', sans-serif;
 	color: #FFFFFF;
-	font-size: 18px;
-	line-height: 16px;
+	font-size: 17px;
+	margin-bottom: 10px;
 }
 
 #hero-about{
 	margin-top: 25px;
+}
+
+
+#work-layout h1{
+	font-family: 'bebas_neueregular';
+	font-size: 30px;
+	color: #658fdc;
+	margin-bottom: 10px;
 }
