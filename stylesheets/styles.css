@@ -19,6 +19,10 @@
 	margin-bottom: 0;
 }
 
+#nav{
+	margin: 0;
+}
+
 #nav ul{
 	float: right;
 	margin-top:11px;
@@ -45,6 +49,11 @@
 #hero-back{
 	background-color:#658fdc;
 	height: 345px;
+}
+
+#hero-picture{
+	position: absolute;
+	right: 20px;
 }
 
 #hero-back .container{
@@ -81,9 +90,33 @@
 	margin-bottom: 10px;
 }
 
+
 .work{
+	margin: 0;
+}
+.work img{
 	width: 100%;
 	height: auto;
+}
+
+.web{
+	width: 100%;
+	height: auto;
+	background-image: url('images/web-preview400.jpg');
+}
+
+.work-type{
+	font-size:16px;
+	font-family: 'Open Sans', sans-serif;
+	margin-top: 5px;
+	text-align: center;
+}
+
+
+#footer-back{
+	background-color: #252524;
+	height:50px;
+	margin:0px;
 }
 
 
@@ -102,6 +135,8 @@
 			width: 380px;
 			margin-top: 20px;
 		}
+
+		.add-bottom{margin-bottom: 0px!important;}
 	}
 
 	/* All Mobile Sizes (devices and browser) */
@@ -113,6 +148,8 @@
 		#hero p{
 			font-size: 15px;
 		}
+
+		.add-bottom{margin-bottom: 0px!important;}
 
 	}
 
@@ -141,5 +178,8 @@
 		#hero-about{
 			margin-top: 15px;
 		}
+
+		.add-bottom{margin-bottom: 0px!important;}
+
 	}
 
