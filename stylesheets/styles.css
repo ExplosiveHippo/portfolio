@@ -82,8 +82,11 @@
 }
 
 .work{
-	padding-bottom: 10px;
+	width: 100%;
+	height: auto;
 }
+
+
 
 /* MEDIA QUERIES */
 
@@ -111,9 +114,6 @@
 			font-size: 15px;
 		}
 
-		.work{
-			padding-right: 10px;
-		}
 	}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
