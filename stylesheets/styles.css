@@ -112,7 +112,7 @@
 		}
 
 		.work{
-			padding-top: 10px;
+			padding-right: 10px;
 		}
 	}
 
@@ -121,6 +121,25 @@
 
 	/* Mobile Portrait Size to Mobile Landscape Size (devices and browsers) */
 	@media only screen and (max-width: 479px) {
+		
+		#hero{
+			margin-top: 0px;
+		}
 
+		#hero p{
+			font-size: 15px;
+			margin-bottom: 8px;
+		}
+
+		#hero h1,h2{
+			font-family: 'bebas_neueregular';
+			color: #FFFFFF;
+			margin-bottom: 0px;
+		}
+
+
+		#hero-about{
+			margin-top: 15px;
+		}
 	}
 
