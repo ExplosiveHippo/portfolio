@@ -43,9 +43,10 @@
 		<div class="container">
 			<div id="nav" class="sixteen columns">
 		    	<ul>
-			        <li><a href="resume.pdf">Resume</a></li>
+		    		<li><a href="index.html">Portfolio</a></li>
+			        <li><a href="#">Resume</a></li>
 			       	<li><a href="http://www.github.com/explosivehippo" target="_blank">Github</a></li>
-			        <li><a href="contact.html">Contact</a></li>
+			        <li><a href="#">Contact</a></li>
 		    	</ul>
 			</div>
 		</div><!-- container -->
@@ -63,7 +64,7 @@
 					<p>Currently Residing in Rochester, NY. Willing to relocate.</p>
 				</div>
 			</div>
-			<div class="eight columns omega">
+			<div class="eight columns ">
 				<img src="images/lance.jpg" id="hero-picture"/>
 			</div>
 		</div><!-- container -->
@@ -71,13 +72,23 @@
 
 	<div class="container" id="work-layout">
 
+		<h1>My Work</h1>
+		<ul>
+			<li><a href="javascript:sort('all')">All</a></li>
+			<li><a href="javascript:sort('web')">Web Development & Design</a></li>
+			<li><a href="javascript:sort('mobile')">Mobile App Development & Design</a></li>
+			<li><a href="javascript:sort('graphics')">Graphics Design & Art</a></li>
+			<li><a href="javascript:sort('animation')">Animation</a></li>
+			<li><a href="javascript:sort('3D')">3D Modeling</a></li>
+			<li><a href="javascript:sort('actionscript')">Actionscript</a></li>
+		</ul>
+		<p><a href="javascript:sort('web')">Web</a></p>
 		<div class="row">
-				<h1>My Work</h1>
 					<div class="one-third column add-bottom work web">
 						<img src="images/work-bg.jpg" alt="Web Design & Development" />
 						<p class="work-type">Web Development / Design</p>
 					</div>
-					<div class="one-third column add-bottom work">
+					<div class="one-third column add-bottom work web">
 						<img src="images/work-bg.jpg" alt="Web Design & Development" />
 						<p class="work-type">Mobile App Development / Design</p>
 					</div>
@@ -122,5 +133,25 @@
 
 <!-- End Document
 ================================================== -->
+
+
+<script type="text/javascript">
+	function sort(workType){
+
+		var works = document.getElementsByClassName('work');
+		if(workType == 'all'){
+			for(var i = 0; i < works.length; i++){
+				works[i].style.display = 'inline';
+			}
+		}
+		for(var i = 0; i < works.length; i++){
+			var classes = works[i].className;
+			if(works[i].className.indexOf(workType) == -1){
+				works[i].style.display = 'none';
+			}
+		}
+	}
+</script>
+
 </body>
 </html>

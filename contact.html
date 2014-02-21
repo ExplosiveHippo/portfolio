@@ -71,8 +71,9 @@
 
 	<div class="container" id="work-layout">
 
+		<h1>My Work</h1>
+		<p><a href="#" onclick="sort('web')">Web</a></p>
 		<div class="row">
-				<h1>My Work</h1>
 					<div class="one-third column add-bottom work web">
 						<img src="images/work-bg.jpg" alt="Web Design & Development" />
 						<p class="work-type">Web Development / Design</p>
@@ -122,5 +123,45 @@
 
 <!-- End Document
 ================================================== -->
+
+
+<script type="text/javascript">
+	function sort(workType){
+		switch (workType) {
+		  case "web":
+			  var works = document.getElementsByClassName('work');
+				for(var i = 0; i < works.length; i++){
+					if(works[i].className != 'web'){
+						works[i].style.display = 'none';
+					}
+				}
+		    break;
+		  case "Apples":
+		    document.write("Apples are $0.32 a pound.<br>");
+		    break;
+		  case "Bananas":
+		    document.write("Bananas are $0.48 a pound.<br>");
+		    break;
+		  case "Cherries":
+		    document.write("Cherries are $3.00 a pound.<br>");
+		    break;
+		  case "Mangoes":
+		  case "Papayas":
+		    document.write("Mangoes and papayas are $2.79 a pound.<br>");
+		    break;
+		  default:
+		    document.write("Sorry, we are out of " + expr + ".<br>");
+		}
+
+
+		if(type == 'web'){
+			var works = document.getElementsByClassName('web');
+			for(var i = 0; i < works.length; i++){
+				works[i].style.display = 'none';
+			}
+		}
+	}
+</script>
+
 </body>
 </html>
