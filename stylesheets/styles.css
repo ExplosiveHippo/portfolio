@@ -82,18 +82,24 @@
 	margin-top: 25px;
 }
 
+#work-filter{
+	margin: 0;
+}
+
 
 #work-layout h1{
 	font-family: 'bebas_neueregular';
 	font-size: 30px;
 	color: #658fdc;
-	margin-bottom: 10px;
 }
+
+
 
 
 .work{
 	margin: 0;
 }
+
 .work img{
 	width: 100%;
 	height: auto;
@@ -112,11 +118,26 @@
 	text-align: center;
 }
 
+.first{
+	margin-left: 0px!important;
+}
+
+
+#description{
+	margin-top: 50px;
+}
+
+
+.preview{
+	width: 100%;
+}
+
 
 #footer-back{
 	background-color: #252524;
 	height:50px;
 	margin:0px;
+
 }
 
 
@@ -151,6 +172,10 @@
 
 		.add-bottom{margin-bottom: 0px!important;}
 
+		#description {
+			margin-top: 10px;
+		}
+
 	}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
@@ -180,6 +205,10 @@
 		}
 
 		.add-bottom{margin-bottom: 0px!important;}
+
+		#nav a {
+		    font-size: 18px;
+		} 
 
 	}
 
