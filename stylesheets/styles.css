@@ -60,10 +60,11 @@ a img {
 	height:70px;
 }
 
-#hero-work h1{
+#lance-menu h1{
 	font-family: 'bebas_neueregular';
 	color: #FFFFFF;
-	font-size: 30px;
+ 	font-size: 25px;
+    line-height: 41px;
 }
 
 #hero-picture{
@@ -101,6 +102,9 @@ a img {
 	margin: 0;
 }
 
+#work-layout{
+	margin-top: 30px;
+}
 
 #work-layout h1{
 	font-family: 'bebas_neueregular';
