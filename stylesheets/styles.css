@@ -97,7 +97,7 @@
 
 
 .work{
-	margin: 0;
+	margin-bottom: 0px!important;
 }
 
 .work img{
@@ -119,7 +119,7 @@
 }
 
 .first{
-	margin-left: 0px!important;
+	margin-left: 0px;
 }
 
 
