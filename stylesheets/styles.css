@@ -12,6 +12,10 @@
 
 }
 
+a img {
+    border: 0;
+}
+
 
 #nav-back{
 	background-color: #343332;
@@ -49,6 +53,17 @@
 #hero-back{
 	background-color:#658fdc;
 	height: 345px;
+}
+
+#hero-back-work{
+	background-color:#658fdc;
+	height:70px;
+}
+
+#hero-work h1{
+	font-family: 'bebas_neueregular';
+	color: #FFFFFF;
+	font-size: 30px;
 }
 
 #hero-picture{
@@ -91,9 +106,8 @@
 	font-family: 'bebas_neueregular';
 	font-size: 30px;
 	color: #658fdc;
+	margin-bottom: 10px;
 }
-
-
 
 
 .work{
@@ -122,9 +136,11 @@
 	margin-left: 0px;
 }
 
+#showcase img{
+	border: 1px #A8A8A8 solid;
+}
 
 #description{
-	margin-top: 50px;
 }
 
 
@@ -139,6 +155,31 @@
 	margin:0px;
 
 }
+
+.myButton {
+	background-color:#658fdc;
+	-moz-border-radius:4px;
+	-webkit-border-radius:4px;
+	border-radius:4px;
+	border:1px solid #567CBF;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff!important;
+	font-family:arial;
+	font-size:13px;
+	padding:6px 11px;
+	text-decoration:none;
+}
+.myButton:hover {
+	background-color:#729AE0;
+	color:#FFFFFF!important;
+}
+.myButton:active {
+	position:relative;
+	top:1px;
+}
+
+
 
 
 
