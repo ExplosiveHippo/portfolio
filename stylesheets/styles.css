@@ -221,6 +221,10 @@ a img {
 			margin-top: 10px;
 		}
 
+		#lance-menu{
+			display: none;
+		}
+
 	}
 
 	/* Mobile Landscape Size to Tablet Portrait (devices and browsers) */
@@ -254,6 +258,8 @@ a img {
 		#nav a {
 		    font-size: 18px;
 		} 
+
+
 
 	}
 
