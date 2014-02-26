@@ -17,6 +17,11 @@ a img {
 }
 
 
+h3{
+	font-family: 'Open Sans', sans-serif;
+	font-size: 20px;
+}
+
 #nav-back{
 	background-color: #343332;
 	height: 40px;
@@ -181,6 +186,42 @@ a img {
 .myButton:active {
 	position:relative;
 	top:1px;
+}
+
+label {
+    display:block;
+    margin-top:20px;
+    letter-spacing:2px;
+}
+
+input, textarea {
+	width: 80%;
+	background:#efefef;
+	border:1px solid #777777;
+	padding:10px;
+	margin-top:3px;
+	font-size:0.9em;
+	color:#3a3a3a;
+}
+
+input:focus, textarea:focus {
+    border:1px solid #729AE0;
+}
+
+.green{
+	color: #0B821B
+}
+
+.red{
+	color: #E5002D;
+}
+
+#other-contacts{
+	margin-top: 30px;
+}
+
+#submit{
+	margin-top:20px;
 }
 
 
