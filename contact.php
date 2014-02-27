@@ -50,10 +50,11 @@
 						<h1>Lance Laughlin</h1>
 						<h2>New Media Developer</h2>
 						<div id="hero-about">
-							<p>RIT Senior Studying New Media Interactive Development.</p>
-							<p>Active Contributor to the Open-Source Community.</p>
+							<p>RIT senior studying New Media Interactive Development.</p>
+							<p>Active contributor to the open-source community.</p>
 							<p>Primary Focus: Front-End & Back-End Web Development.</p>
-							<p>Currently Residing in Rochester, NY. Willing to relocate.</p>
+							<p>Seeking full-time position starting June 2014</p>
+							<p>Currently residing in Rochester, NY. Willing to relocate.</p>
 						</div>
 					</div>
 					<div class="eight columns ">

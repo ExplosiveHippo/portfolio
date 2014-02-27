@@ -244,6 +244,10 @@ input:focus, textarea:focus {
 		}
 
 		.add-bottom{margin-bottom: 0px!important;}
+
+		#hero h1,h2,p{
+			margin-left:10px;
+		}
 	}
 
 	/* All Mobile Sizes (devices and browser) */
@@ -279,8 +283,8 @@ input:focus, textarea:focus {
 		}
 
 		#hero p{
-			font-size: 15px;
-			margin-bottom: 8px;
+			font-size: 13px;
+			margin-bottom: 6px;
 		}
 
 		#hero h1,h2{
