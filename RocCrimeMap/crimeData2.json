@@ -1,0 +1,283 @@
+
+[
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/12/2013 9:16:00",
+    "Address":"700 Block SOUTH AVE",
+    "Identifier":"13-352147",
+    "Description":"Location Type: School;   Larceny Type:All Other Larcenies, excluding Motor...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/12/2013 2:00:00",
+    "Address":"1 Block LITCHFIELD ST",
+    "Identifier":"13-352030",
+    "Description":"Location Type: Construction Site;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/12/2013 0:11:00",
+    "Address":"400 Block LAKE AVE",
+    "Identifier":"13-351982",
+    "Description":"Location Type: Gas Station;   LarcenyType: Theft from Building;   Weapon...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/11/2013 23:50:00",
+    "Address":"1 Block RAINES PARK",
+    "Identifier":"13-352088",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: All Other Larcenies,...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/11/2013 23:45:00",
+    "Address":"400 Block E MAIN ST",
+    "Identifier":"13-352009",
+    "Description":"Location Type: Other Building;   LarcenyType: N/A;   Weapon Type: N/A;   Victim...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/11/2013 22:00:00",
+    "Address":"1 Block CADY ST",
+    "Identifier":"13-352123",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: Theft from Motor Vehicle...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/11/2013 21:06:00",
+    "Address":"100 Block BIRR ST",
+    "Identifier":"13-351841",
+    "Description":"Location Type: Multiple Dwelling;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Robbery",
+    "DateTime":"12/11/2013 20:10:00",
+    "Address":"1 Block ELECTRIC AVE",
+    "Identifier":"13-351829",
+    "Description":"Location Type: Street;   Larceny Type:N/A;   Weapon Type: Other;   Victim...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/11/2013 16:14:00",
+    "Address":"100 Block WEBSTER AVE",
+    "Identifier":"13-352105",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: Theft from Motor Vehicle...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/11/2013 9:19:00",
+    "Address":"400 Block LAKE AVE",
+    "Identifier":"13-351338",
+    "Description":"Location Type: Grocery/Supermarket;  Larceny Type: Shoplifting;   Weapon...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/11/2013 7:47:00",
+    "Address":"1 Block BARTLETT ST",
+    "Identifier":"13-351290",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: Theft from Motor Vehicle...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/11/2013 0:01:00",
+    "Address":"200 Block EAST AVE",
+    "Identifier":"13-351163",
+    "Description":"Location Type: Other Retail Store;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 22:45:00",
+    "Address":"1000 Block GENESEE ST",
+    "Identifier":"13-351339",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: Theft from Motor Vehicle...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/10/2013 22:11:00",
+    "Address":"1 Block MARSHALL ST",
+    "Identifier":"13-351101",
+    "Description":"Location Type: Grocery/Supermarket;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 22:00:00",
+    "Address":"1 Block COOK ST",
+    "Identifier":"13-351450",
+    "Description":"Location Type: Street;   Larceny Type:Theft from Motor Vehicle (not parts or...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 21:00:00",
+    "Address":"1 Block CHILD ST",
+    "Identifier":"13-351078",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: Theft from Motor Vehicle...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 20:00:00",
+    "Address":"1 Block THOMAS ST",
+    "Identifier":"13-351302",
+    "Description":"Location Type: Street;   Larceny Type:Theft of Motor Vehicle Parts or...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 19:45:00",
+    "Address":"1 Block ANDREWS ST",
+    "Identifier":"13-351135",
+    "Description":"Location Type: Street;   Larceny Type:Theft from Motor Vehicle (not parts or...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 19:25:00",
+    "Address":"400 Block WEST AVE",
+    "Identifier":"13-350989",
+    "Description":"Location Type: Variety/ConvenienceStore;   Larceny Type: Shoplifting;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 18:35:00",
+    "Address":"800 Block DRIVING PARK AVE",
+    "Identifier":"13-350988",
+    "Description":"Location Type: Parking Lot;   LarcenyType: Theft from Motor Vehicle (not...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 18:30:00",
+    "Address":"1 Block FLEETWOOD DR",
+    "Identifier":"IRO13058400-1",
+    "Description":"GR LAR 4-VALUE PROPERTY GREATER THAN$1000",
+    "Agency":"Irondequoit Town Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 18:12:00",
+    "Address":"100 Block E MAIN ST",
+    "Identifier":"13-350965",
+    "Description":"Location Type: Variety/ConvenienceStore;   Larceny Type: All Other...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 18:00:00",
+    "Address":"300 Block LAKE AVE",
+    "Identifier":"13-351273",
+    "Description":"Location Type: Parking Lot;   LarcenyType: Theft from Motor Vehicle (not...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/10/2013 17:00:00",
+    "Address":"100 Block AURORA ST",
+    "Identifier":"13-351309",
+    "Description":"Location Type: Single Family Home;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 16:00:00",
+    "Address":"400 Block N CLINTON AVE",
+    "Identifier":"13-350903",
+    "Description":"Location Type: Street;   Larceny Type:Theft from Motor Vehicle (not parts or...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/10/2013 15:30:00",
+    "Address":"100 Block LENOX ST",
+    "Identifier":"13-351167",
+    "Description":"Location Type: Single Family Home;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/10/2013 14:00:00",
+    "Address":"1 Block THOMAS ST",
+    "Identifier":"13-350776",
+    "Description":"Location Type: Single Family Home;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 11:15:00",
+    "Address":"1800 Block DEWEY AVE",
+    "Identifier":"13-350581",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: All Other Larcenies,...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft of Vehicle",
+    "DateTime":"12/10/2013 9:54:00",
+    "Address":"100 Block DR SAMUEL MCCREE WAY",
+    "Identifier":"13-350437",
+    "Description":"Location Type: Other Outside Location;  Larceny Type: Motor Vehicle Theft;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 9:28:00",
+    "Address":"1400 Block NORTON ST",
+    "Identifier":"13-350522",
+    "Description":"Location Type: Single Family Home;  Larceny Type: Theft from Building;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/10/2013 9:00:00",
+    "Address":"1 Block LANGHAM ST",
+    "Identifier":"13-351013",
+    "Description":"Location Type: Single Family Home;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Theft",
+    "DateTime":"12/10/2013 7:35:00",
+    "Address":"900 Block FERNWOOD PARK",
+    "Identifier":"13-351035",
+    "Description":"Location Type: School;   Larceny Type:Theft from Building;   Weapon Type: N/A;...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/10/2013 5:50:00",
+    "Address":"100 Block ALBEMARLE ST",
+    "Identifier":"13-350422",
+    "Description":"Location Type: Single Family Home;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Breaking & Entering",
+    "DateTime":"12/10/2013 4:35:00",
+    "Address":"1 Block ELK ST",
+    "Identifier":"13-350413",
+    "Description":"Location Type: Single Family Home;  Larceny Type: N/A;   Weapon Type: N/A;  ...",
+    "Agency":"Rochester City Police Department"
+  },
+  {
+    "CrimeType":"Assault",
+    "DateTime":"12/9/2013 23:50:00",
+    "Address":"1 Block SANFORD ST",
+    "Identifier":"13-350328",
+    "Description":"Location Type: Multiple Dwelling;  Larceny Type: N/A;   Weapon Type:...",
+    "Agency":"Rochester City Police Department"
+  }
+]
